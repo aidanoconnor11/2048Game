@@ -3,4 +3,5 @@
 # Description
 The game of 2048, complete with graphics, created by Aidan O'Connor. The game was coded using Java.
 
-[screen-capture (2).webm](https://user-images.githubusercontent.com/110209949/181996577-947b4681-6e8b-4a79-a60f-809af4036ed5.webm)
+
+![ezgif-2-20a1cd1a62](https://user-images.githubusercontent.com/110209949/181996634-9569ecee-1f0e-4a08-8dd1-bdd1975234cd.gif)
