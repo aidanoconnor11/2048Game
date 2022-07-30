@@ -59,7 +59,7 @@ public class GUI extends JFrame implements KeyListener, ActionListener {
         title.setHorizontalAlignment(info.CENTER);
         title.setVerticalAlignment(info.CENTER);
         title.setFont(new Font(title.getFont().getName(), Font.BOLD, 40));
-        title.setText("APCS 2048");
+        title.setText("2048");
 
         // create the 2-dimensional board array to display the board values
         board= new JLabel[SIZE][SIZE];
